@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JMMarkSlider"
-  s.version      = "1.1"
+  s.version      = "1.0"
   s.summary      = "A short description of JMMarkSlider."
 
   # This description is used to generate tags and improve search results.
